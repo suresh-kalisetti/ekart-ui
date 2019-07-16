@@ -1,0 +1,29 @@
+.cartview {
+  margin-left: 1.5rem;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.12), 0px 2px 6px rgba(0, 0, 0, 0.24);
+  padding: 16px;
+  font-size: 16px;
+}
+
+.cartHeader {
+  font-weight: 700;
+  color: #2874f0;
+  cursor: pointer;
+}
+
+.cartAction {
+  color: #2874f0;
+  cursor: pointer;
+}
+
+.quantity {
+  width: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.quantityAction {
+  border-radius: 50%;
+  border: none;
+  background-color: lightgrey;
+}

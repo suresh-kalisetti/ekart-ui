@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Roboto, Arial, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.errorLabel {
+  margin-top: 0.25rem;
+  font-size: 80%;
+  color: #dc3545;
+}
+
+.infoLabel {
+  margin-top: 0.25rem;
+  font-size: 80%;
+  color: #6c757d !important;
+}
+
+.errorControl {
+  border-color: #dc3545 !important;
+  box-shadow: 0px 0px 0px 0.2rem rgba(220, 53, 69, 0.25) !important;
+}
